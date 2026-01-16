@@ -1,2 +1,1 @@
-# harjoitus1
-Tsaukki
+Tämä on ensimmäinen harjoitukseni GitHubissa.
